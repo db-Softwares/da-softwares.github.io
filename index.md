@@ -63,8 +63,6 @@ Our Service does not address anyone under the age of 13.
 
 We do not link our app to any other websites.
 
-We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
-
 # Changes to this Privacy Policy
 
 We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
